@@ -1,3 +1,9 @@
+<img style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+     src="https://www.nuitducode.net/img/nuitducode-scratch-python.svg" alt="logo Nuit du C0de"/>
+
 "La nuit du c0de" est un marathon de programmation auquel peuvent participer tout établissement de primaire, collège et lycée.
 
 Il s'agit d'une compétition de 6 heures durant laquelle vous devrez concevoir un jeu uniquement à l'aide de quelques univers donné et votre imagination.
@@ -7,10 +13,9 @@ Vous n'aurez pas le droit d'utiliser des bouts de code provenant de vos anciens 
 Vous ne serez néanmoins pas délaissé durant cette épreuve. Vous pourrez demander de l'aide à vos enseignants ainsi qu'aux autres équipes quand vous avez des questions ou que vous vous trouvez en difficulté.
 
 L'évènement est réparti sur toute une année scolaire :
-- septembre à avril : inscriptions
 - janvier à mai : entraînement
-- mai : Nuit du  cOde
-- juin sélection du jury
+- mercredi 24 mai : Nuit du  cOde
+- juin : sélection du jury
 
 Voici quelques liens pour commencer à vous familiariser avec cet évènement :
 - La nuit du c0de : https://www.nuitducode.net/
