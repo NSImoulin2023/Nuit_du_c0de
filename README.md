@@ -22,4 +22,5 @@ Voici quelques liens pour commencer à vous familiariser avec cet évènement :
 - Site pour une utilisation rapide de pyxelStudio : https://www.pyxelstudio.net/
 - Tutoriels pour apprendre à utiliser pyxel : https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/
 - Documentation de pyxel : https://github.com/kitao/pyxel/blob/main/docs/README.fr.md
-- Reponses à quelques questions fréquentes : https://github.com/nuitducode/ORGANISATION-2023/discussions/7
+- Cheat-sheet de pyxel : https://github.com/godangdo-watermelon/pyxel-cheat-sheet/blob/98c163cd5c176bda8c0f1daffba195e567a2f502/PYXEL_CHEATSHEET_VER_0.png
+- Reponses à quelques questions fréquentes : https://github.com/nuitducode/ORGANISATION-2023/discussions
